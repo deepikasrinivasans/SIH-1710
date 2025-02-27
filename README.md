@@ -42,7 +42,7 @@ Firebase Authentication (for secure login)
 ### Tools:
 Git(for API testing)
 ## Dependencies
-Mapping Service: 10 days (for collecting station layouts and integrating maps)
-Data Collection: 10 days (for gathering train schedules, platform details, and station information)
-Budget: ₹50,000
+-Mapping Service: 10 days (for collecting station layouts and integrating maps)
+-Data Collection: 10 days (for gathering train schedules, platform details, and station information)
+- Budget: ₹50,000
 
